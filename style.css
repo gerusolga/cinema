@@ -1,0 +1,44 @@
+body {
+    background-color: #F0CAA3;
+}
+
+.italics {
+    font-style: italic;
+    font-family: "Roboto", sans-serif;
+}
+
+.par {
+    color: #52616b;
+    font-size: 35px;
+    font-family: "Roboto", sans-serif;
+}
+
+.part {
+    color: #00005C;
+    font-size: 18px;
+    font-family: "Roboto", sans-serif;
+}
+
+hr {
+    border: 2px solid #3B185F;
+}
+
+.heading {
+    color: #40514e;
+    font-size: 40px;
+    font-family: "Roboto", sans-serif;
+}
+
+.btn {
+    background-color: #ADA2FF;
+    border-radius: 10px;
+    font-family: "Roboto", sans-serif;
+}
+
+.name, .gist {
+    font-family: "Roboto", sans-serif;
+}
+
+.tab {
+    color: black;
+}
